@@ -2,7 +2,6 @@
   "name": "pressa-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/filosof777/pressa",
   "dependencies": {
     "@date-io/date-fns": "^2.13.1",
     "@emotion/react": "^11.7.1",
